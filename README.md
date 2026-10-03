@@ -1,2 +1,2 @@
 # SuilKeyForge
-js open it, i shouldn't be too hard
+js open it, it shouldn't be too hard
