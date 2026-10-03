@@ -1,2 +1,2 @@
 # SuilKeyForge
-idk i did it to encrypt smth
+js open it, i shouldn't be too hard
